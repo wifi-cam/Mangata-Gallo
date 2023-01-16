@@ -258,7 +258,7 @@ footer{
   justify-content: space-between;
 }
 
-.foot-logo img {
+#foot-logo {
   height: 50px;
   width: 100px;
   padding-left: 3rem;
